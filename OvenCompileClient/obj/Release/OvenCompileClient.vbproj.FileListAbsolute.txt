@@ -1,0 +1,9 @@
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\bin\Release\OvenCompileClient.exe.config
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\bin\Release\OvenCompileClient.exe
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\bin\Release\OvenCompileClient.pdb
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\bin\Release\OvenCompileClient.xml
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\obj\Release\OvenCompileClient.Resources.resources
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\obj\Release\OvenCompileClient.vbproj.GenerateResource.Cache
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\obj\Release\OvenCompileClient.exe
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\obj\Release\OvenCompileClient.xml
+I:\Visual Studio 2012\OvenCompileClient\OvenCompileClient\obj\Release\OvenCompileClient.pdb
